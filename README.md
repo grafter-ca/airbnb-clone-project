@@ -72,10 +72,10 @@ This project is a full-stack clone of the Airbnb booking platform. The objective
 A user-friendly design is critical in driving engagement and conversion. It helps:
 - Reduce bounce rate  
 - Increase booking completions  
-- Improve trust and reliability  
+- Improve trust and reliability 
 - Provide equal access (accessibility standards)
 
-Clear navigation, visual feedback, and responsiveness ensure all users enjoy a seamless experience—whether on desktop or mobile.
+Clear navigation, visual feedback, and responsiveness ensure all users enjoy a seamless experience, whether on desktop or mobile.
 
 ---
 
