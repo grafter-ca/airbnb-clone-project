@@ -150,19 +150,7 @@ The application will be built using **modular, reusable components** for consist
 - Copyright
 
 Each of these components will be maintained in its files and designed with reusability in mind to ensure scalability.
-
 ---
 
-## ✅ Next Steps
-
-- [ ] Complete Figma wireframes  
-- [ ] Start building individual components  
-- [ ] Set up routing and page navigation  
-- [ ] Implement state management (Context API or Redux)  
-- [ ] Begin backend (authentication, database, APIs)  
-- [ ] Deploy MVP version to Netlify/Vercel  
-
----
-
-> 🔗 *Built with ❤️ by Caleb and Team as part of the ALX Software Engineering Program.*
+> 🔗 *Built by Caleb as part of the ALX Software Engineering Program.*
 
