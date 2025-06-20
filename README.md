@@ -2,23 +2,14 @@
 
 ## Project Initialization
 
-This project is a full-stack clone of the Airbnb booking platform. The objective is to design and develop a fully functional web application that allows users to:
-
-- Browse available property listings
-- View detailed property information
-- Filter listings by criteria
-- Authenticate as users
-- Complete secure bookings
-
+This project is a full-stack clone of the popular accommodation booking platform Airbnb. 
 ---
 
 ## 🎯 Project Goals
 
-- Build a real-world booking web application using modern tools
-- Learn and apply responsive UI/UX design principles
-- Practice full-stack collaboration and agile workflows
-- Structure and organize code using component-based architecture
-- Deploy and maintain a complete application
+-  Build a functional web application that allows users to browse property listings
+- View detailed property information
+- Complete bookings
 
 ---
 
@@ -26,11 +17,9 @@ This project is a full-stack clone of the Airbnb booking platform. The objective
 
 | Category        | Tools Used                                |
 |----------------|--------------------------------------------|
-| **Frontend**   | HTML, CSS, JavaScript, React.js, Tailwind CSS |
-| **Backend** *(optional)* | Node.js, Express.js, MongoDB         |
-| **Design**     | Figma (for wireframes & design mockups)    |
-| **Version Control** | Git & GitHub                          |
-| **Deployment** | Netlify / Vercel (Frontend), Render (Backend) |
+| **Frontend**   | HTML, CSS, JavaScript (React or similar framework) |
+| **Design**     |Figma for UI/UX design    |
+| **Version Control** |Version Control   |
 
 ---
 
