@@ -34,7 +34,7 @@ This project is a full-stack clone of the Airbnb booking platform. The objective
 
 ---
 
-## 🎨 UI/UX Design Planning
+## UI/UX Design Planning
 
 ### ✅ Design Goals
 
@@ -110,7 +110,7 @@ Understanding the colors, typography, and spacing in Figma ensures:
 
 ---
 
-## 👥 Project Roles and Responsibilities
+## Project Roles and Responsibilities
 
 | Role              | Responsibilities |
 |-------------------|------------------|
