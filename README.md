@@ -1,6 +1,6 @@
 # 🏠 Airbnb Clone Project
 
-## 📘 Project Overview
+## Project Initialization
 
 This project is a full-stack clone of the Airbnb booking platform. The objective is to design and develop a fully functional web application that allows users to:
 
