@@ -26,23 +26,19 @@ This project is a full-stack clone of the popular accommodation booking platform
 ## UI/UX Design Planning
 
 ### ✅ Design Goals
-
-- Build a seamless and intuitive booking flow  
-- Maintain consistency across all pages  
-- Ensure mobile-first responsive design  
-- Follow WCAG accessibility guidelines  
-- Improve performance with optimized UI  
+- Create intuitive booking flow
+- Maintain visual consistency
+- Ensure fast loading times
+- Prioritize mobile responsiveness 
 
 ---
 
 ### 🌟 Key Features
 
-- Property search and filtering  
-- Responsive grid property listing  
-- Detailed property view with images  
-- User login and authentication  
-- Simple and secure checkout experience  
-- Booking confirmation  
+- Property search and filtering
+- Detailed property viewing
+- Secure checkout process
+- User authentication  
 
 ---
 
@@ -50,18 +46,18 @@ This project is a full-stack clone of the popular accommodation booking platform
 
 | Page | Description |
 |------|-------------|
-| **Property Listing View** | Grid display of properties with filters for location, price, and dates. |
-| **Listing Detailed View** | Full property details, photo gallery, host info, reviews, and booking form. |
-| **Simple Checkout View** | Streamlined payment form to complete and confirm bookings. |
+| **Property Listing View** | Grid display of properties with filters. |
+| **Listing Detailed View** | Complete property details with images and booking form. |
+| **Simple Checkout View** | Streamlined payment and booking confirmation. |
 
 ---
 
 ### 💡 Importance of a User-Friendly Booking Design
 
-A user-friendly design is critical in driving engagement and conversion. It helps:
-- Reduce bounce rate  
-- Increase booking completions  
-- Improve trust and reliability 
+A well-designed booking system. It helps:
+- Reduces friction in the user journey 
+- Increases conversion rates 
+- Improves customer satisfaction 
 - Provide equal access (accessibility standards)
 
 Clear navigation, visual feedback, and responsiveness ensure all users enjoy a seamless experience, whether on desktop or mobile.
