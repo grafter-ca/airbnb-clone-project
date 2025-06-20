@@ -79,7 +79,7 @@ Clear navigation, visual feedback, and responsiveness ensure all users enjoy a s
 
 ---
 
-## 🎨 Figma Design Specs
+## 🎨 Figma Design Specifications
 
 ### 🎨 Color Styles
 
@@ -125,7 +125,7 @@ Understanding the colors, typography, and spacing in Figma ensures:
 
 ---
 
-## 🧩 UI Component Patterns
+## UI Component Patterns
 
 The application will be built using **modular, reusable components** for consistent design and development.
 
