@@ -71,17 +71,16 @@ Clear navigation, visual feedback, and responsiveness ensure all users enjoy a s
 - **Primary**: `#FF5A5F`
 - **Secondary**: `#008489`
 - **Background**: `#FFFFFF`
-- **Text (Primary)**: `#222222`
-- **Text (Secondary)**: `#717171`
+- **Text**: `#222222`
+- **Secondary Text**: `#717171`
 
 ---
 
 ### 🔤 Typography
 
-- **Font Family**: Circular
-- **Headings**: Bold (700), 24px – 32px
-- **Body Text**: Medium (500), 16px
-- **Secondary Text**: Book (400), 14px
+- **Primary Font**: Medium (500), 16px
+- **Headings**: Circular, Bold (700), 24px-32px
+- **Secondary Text**:  Circular, Book (400), 14px
 
 ---
 
